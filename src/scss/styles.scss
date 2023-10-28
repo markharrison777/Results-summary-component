@@ -1,2 +1,10 @@
 @import "reset.css";
 $main-font: HankenGrotesk;
+
+main {
+  font-family: $main-font;
+}
+
+.results {
+  background-color: hsl(241, 81%, 54%);
+}

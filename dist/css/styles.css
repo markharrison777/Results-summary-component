@@ -1,3 +1,10 @@
 @import "reset.css";
+main {
+  font-family: HankenGrotesk;
+}
+
+.results {
+  background-color: hsl(241, 81%, 54%);
+}
 
 /*# sourceMappingURL=styles.css.map */
